@@ -1,0 +1,303 @@
+---
+tags:
+  - 1인개발자
+  - 인공지능
+  - AI엔지니어6주클럽
+  - 노마드코더
+  - lecture
+작성일자: 2026-03-04
+---
+---
+
+## 1. 기본 정보
+
+**이름**: wonder2021  
+**직업 역할**: Software Developer / AI Builder / 개인 창업가  
+**작성일**: 2026
+
+---
+
+# 2. 인생 방향 (Life Direction)
+
+나의 인생 목표는 다음 세 가지 축을 중심으로 이루어진다.
+
+1️⃣ **AI 기반 서비스 개발자**  
+AI Agent 기술을 활용하여 실제 문제를 해결하는 SaaS 서비스를 만든다.
+
+2️⃣ **데이터 기반 투자자**  
+주식, 금, 달러 등 다양한 자산에 장기 투자하며 데이터 기반 투자 시스템을 구축한다.
+
+3️⃣ **지속적인 학습자**  
+수학, 확률, AI, 경제학을 꾸준히 학습하여 지적 역량을 강화한다.
+
+---
+
+# 3. 핵심 가치 (Core Values)
+
+나의 의사결정 기준이 되는 핵심 가치
+### 1. 지식 (Knowledge)
+- 수학
+- AI
+- 경제
+- 데이터 분석
+
+### 2. 창조 (Creation)
+- 소프트웨어 개발
+- SaaS 서비스 구축
+- AI Agent 설계
+
+### 3. 장기적 사고 (Long-term Thinking)
+- 장기 투자
+- 장기 프로젝트
+- 지속적인 학습
+
+### 4. 자동화 (Automation)
+- AI Agent 활용
+- 데이터 파이프라인 구축
+- 업무 자동화
+    
+
+---
+
+# 4. 장기 비전 (10년 목표)
+
+### 1️⃣ AI SaaS 창업
+
+다음과 같은 AI 서비스를 운영한다.
+- Decision Agent 서비스
+- 투자 추천 서비스
+- 전문직 업무 보조 Agent
+    
+대표 프로젝트
+- **What2Buy**
+    - AI 기반 주식 추천 서비스
+- **Decision Agent**
+    - 학원 선택
+    - 제품 선택
+    - 서비스 비교
+
+### 2️⃣ 개인 투자 시스템 구축
+
+투자 목표
+	- 달러
+	- 금
+	- 글로벌 ETF
+	- 국내주식
+	- AI 기반 투자 분석
+    
+구조
+	- 월 투자 시스템  
+		- S&P500 ETF  
+		- 금 현물  
+		- 달러 적립
+
+목표
+	- 장기 복리 투자
+	- 데이터 기반 투자 의사결정
+   
+### 3️⃣ AI 기반 자동화 환경 구축
+
+AI를 활용한 개발 환경 구축
+
+사용 도구
+	- ChatGPT
+	- Claude Code
+	- Codex
+	- Cursor
+	- OpenAI Agent SDK
+	- Google Agent Development Kit
+	- LangGraph
+	- CrewAI
+
+목표
+	- AI와 협업하는 개발자
+	- AI를 활용한 자동 개발 환경
+	    
+
+---
+
+# 5. 현재 핵심 프로젝트
+
+## 1️⃣ What2Buy
+
+AI 기반 주식 추천 서비스
+
+기능
+	- 주식 데이터 수집
+	- PER / PBR / ROE 분석
+	- AI 추천 시스템
+	- 사용자 추천 티켓 시스템
+    
+기술
+	- Supabase
+	- Remix
+	- Shadcn
+	- Python
+	- 데이터 분석
+	- AI 모델
+	- Cloudflare Firewall    
+
+## 2️⃣ Decision Agent (MVP)
+
+- 문제 : 사람들은 선택을 어려워한다.
+- 예시
+	- 학원 선택    
+	- 제품 선택 
+	- 서비스 비교
+- 해결
+	- AI Agent 기반 의사결정 서비스
+
+## 3️⃣ Geo Economy Dashboard
+
+글로벌 경제 데이터 분석 서비스
+데이터
+	- World Bank
+	- OECD
+기능
+	- 국가별 경제 지표
+	- 랭킹
+	- 비교 분석
+기술
+	- Flutter
+	- Firebase
+	- 데이터 시각화
+    
+
+---
+
+# 6. 학습 로드맵
+
+### 1️⃣ 수학
+
+학습 영역
+	- 선형대수
+	- 확률
+	- 통계
+	- 확률과정
+목표
+	- AI와 데이터 분석 이해
+
+### 2️⃣ AI 기술
+
+학습 영역
+	- PyTorch
+	- LLM
+	- AI Agent
+	- RAG
+	- Multi Agent System
+
+### 3️⃣ 경제 & 투자
+
+학습 영역
+	- 거시경제
+	- 금융시장
+	- 자산 배분
+	- 장기 투자 전략
+
+
+---
+
+# 7. 기술 스택
+
+현재 사용 기술
+
+### 개발
+
+- Python
+- Flutter
+- TypeScript
+- Supabase
+- PostgreSQL
+
+### AI
+
+- OpenAI
+- Claude
+- LangGraph
+- Agent SDK
+
+### 도구
+
+- Obsidian
+- VSCode
+- Cursor
+- GitHub
+    
+
+---
+
+# 8. 생산성 시스템
+
+### 지식관리
+
+도구
+	- Obsidian
+
+구조
+	- Knowledge  
+	- Projects  
+	- AI Tools  
+	- Diary  
+	- Finance
+### 개발 환경
+
+장비
+	- MacBook Air M1
+개발 도구
+	- VSCode
+	- Python
+	- Flutter
+	  NodeJs
+	- React : 배워야 함
+	- uv 환경
+    
+
+---
+
+# 9. 투자 전략
+
+월 투자 구조
+	- S&P500 ETF  
+	- 금 현물  
+	- 달러 적립
+
+목표
+	- 장기 자산 성장
+	- 글로벌 자산 분산
+    
+
+---
+
+# 10. 행동 원칙
+
+나의 행동 원칙
+
+1️⃣ **작게 시작하고 빠르게 실행한다 (MVP)**  
+2️⃣ **AI와 협업한다**  
+3️⃣ **데이터 기반 의사결정**  
+4️⃣ **장기적 관점 유지**  
+5️⃣ **지속적인 학습**
+
+---
+
+# 11. 단기 목표 (1년)
+
+### AI 서비스
+- Decision Agent MVP 출시
+
+### 투자
+- 자동 투자 시스템 구축
+
+### 학습
+- 확률
+- AI Agent
+
+---
+
+# 12. 나의 정체성
+
+나는
+**AI 시대의 Builder이다.**
+- AI를 활용하여 문제를 해결하고
+- 데이터를 기반으로 투자하며
+- 지속적으로 배우는 개발자이다.
